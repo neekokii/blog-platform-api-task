@@ -1,1 +1,1 @@
-# blog-platform-api-task
+Blog-Platform-API.postman_collection.json
