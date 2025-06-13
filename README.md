@@ -1,1 +1,1 @@
-Blog-Platform-API.postman_collection.json
+https://blog-platform.kata.academy/api/
